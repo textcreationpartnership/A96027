@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox Norvvici: or The cry of Norvvich, vindicating their ministers. Wherein, the city of Norwich, viz. the Court of Maioraltie, and Common-Councell by their act of assembly; the rest of the well affected citizens, and inhabitants, by the subscription of their names hereunto, doe vindicate their ministers, Master Thornebacke, Master Carter, Master Stinnett, Master Fletcher, Master Bond, Master Stukeley, Master Tost, and Master Mitchell, from the foule and false aspersions and slanders, which are unchristianly throwne upon them in a lying and scurrilous libell, lately come forth, intituled, Vox populi, or the peoples cry against the clergy, or rather the voice of a scismaticke projecting the discouragement, and driving away of our faithfull teachers, but we hope his lies shall not so effect it, Ier.48.30.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96027</idno>
+            <idno type="STC">Wing V722</idno>
+            <idno type="STC">Thomason E358_4</idno>
+            <idno type="STC">ESTC R201153</idno>
+            <idno type="EEBO-CITATION">99861701</idno>
+            <idno type="PROQUEST">99861701</idno>
+            <idno type="VID">113843</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113843)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E358[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox Norvvici: or The cry of Norvvich, vindicating their ministers. Wherein, the city of Norwich, viz. the Court of Maioraltie, and Common-Councell by their act of assembly; the rest of the well affected citizens, and inhabitants, by the subscription of their names hereunto, doe vindicate their ministers, Master Thornebacke, Master Carter, Master Stinnett, Master Fletcher, Master Bond, Master Stukeley, Master Tost, and Master Mitchell, from the foule and false aspersions and slanders, which are unchristianly throwne upon them in a lying and scurrilous libell, lately come forth, intituled, Vox populi, or the peoples cry against the clergy, or rather the voice of a scismaticke projecting the discouragement, and driving away of our faithfull teachers, but we hope his lies shall not so effect it, Ier.48.30.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for WIlliam Franckling, and are to be sold by Richard Tomlins, at the signe of the Sun in Pie-Corner.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCXLVI. [1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Vox populi (Wing V730).</note>
+                  <note>Annotation on Thomason copy: "Octob: 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Vox populi.</term>
+               <term>Norwich (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113843:1"/>
+            <pb facs="tcp:113843:1" rendition="simple:additions"/>
+            <p>VOX NORWICI: <hi>OR,</hi> The Cry of NORVVICH, Vindicating their MINISTERS.</p>
+            <p>WHEREIN, The City of Norwich, <hi>viz.</hi> the Court of Maioral<g ref="char:EOLhyphen"/>tie, and Common-Councell by their Act of Aſſembly; The reſt of the well affected Citizens, and Inhabitants, by the ſubſcription of their names hereunto, doe vindicate their Miniſters, Maſter <hi>Thornebacke,</hi> Maſter <hi>Carter,</hi> Maſter <hi>Stin<g ref="char:EOLhyphen"/>nett,</hi> Maſter <hi>Fletcher,</hi> Maſter <hi>Bond,</hi> Maſter <hi>Stukeley,</hi> Maſter <hi>Toſt,</hi> and Maſter <hi>Mitchell,</hi> from the foule and falſe aſper<g ref="char:EOLhyphen"/>ſions and ſlanders, which are unchriſtianly throwne upon them in a lying and ſcurrilous Libell, lately come forth, in<g ref="char:EOLhyphen"/>tituled, <hi>Vox Populi,</hi> or the Peoples cry againſt the Clergy, or rather the voice of a Sciſmaticke projecting the diſ<g ref="char:EOLhyphen"/>couragement, and driving away of our faithfull Teachers, but we hope his lies ſhall not ſo effect it, <hi>Ier.</hi> 48.30.</p>
+            <q>
+               <bibl>
+                  <hi>Jer. 6.28.</hi>
+               </bibl>
+               <p>They are all grievous Revolters, walking with ſlanders.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 105.14, 15.</hi>
+               </bibl>
+               <p>He ſuffered no man to doe them wrong; yea, he reproved Kings for their ſakes, ſaying, Touch not mine Anointed, and doe my pro<g ref="char:EOLhyphen"/>phets no harme,</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Franckling,</hi> and are to be ſold by <hi>Richard Tornlins,</hi> at the Signe of the Sun in <hi>Pie-Corner.</hi> MDCXLVI.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113843:2"/>
+            <pb facs="tcp:113843:2"/>
+            <head>To the Impartiall READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>Pon the 26th of Auguſt laſt paſt, 1646, being the day of the ſolemne Faſt, there came to our City a ſcurri<g ref="char:EOLhyphen"/>lous and malicious pamphlet, or Libell, intituled, <hi>Vox populi,</hi> or the peoples cry againſt the Clergy: wherein our moſt godly and faithfull Miniſters; namely, Maſter <hi>John Thornebacke,</hi> Maſter <hi>John Carter,</hi> Maſter <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illiam Stin<g ref="char:EOLhyphen"/>nett,</hi> Maſter <hi>Phinees Fletche,</hi> Maſter <hi>John Bond,</hi> Maſter <hi>John Stuke<g ref="char:EOLhyphen"/>ley,</hi> Maſter <hi>Thomas Toſt,</hi> and Maſter <hi>Nathaniell Mitchell,</hi> are moſt maliciouſly traduced, ſlandered, and falſly accuſed.</p>
+            <p>Our Miniſters will not be perſwaded to ingage their pens in an<g ref="char:EOLhyphen"/>ſwering that fardell of untruths; partly; becauſe they have other more neceſſary imploiments for their precious time, but chiefly be<g ref="char:EOLhyphen"/>cauſe they are humble and meeke men, who are reſolved to tread in the ſteps of their Lord and Maſter Jeſus Chriſt; who when he was reviled, reviled not againe, and when he ſuffred, threatned not; but this we are aſſured of, that although they be willing in the gentle<g ref="char:EOLhyphen"/>neſſe of their ſpirits to put up thoſe intolerable injuries, yet God will not put them up, neither can we their people who have lived under their Miniſtries, and received ſo much comfort and benefit by them be ſilent, God and our conſciences, Religion and humanitie binds us to vindicate them from thoſe groſſe and Diabolicall ſlanders and aſperſions which are caſt upon them, and if we ſhould hold our peace, the ſtones would cry.</p>
+            <p>The great deſigne of the Libell appeares plainly; <hi>viz.</hi> through the ſides of our City Miniſters, to wound (and if it were poſſible) at one blow) to take off all the Orthodox Miniſters, and fixed Starres of the Church of England; but more eſpecially to diſcourage and drive away from us all our godly and faithfull Miniſters, and to leave us in a ſcattered condition, as ſheep without ſhepheards, or ra<g ref="char:EOLhyphen"/>ther, to leave us as lambes in the midſt of ravening wolves; They would have our Miniſters thinke that their peoples heares are ſet againſt them, and their tongues cry out againſt them. But God knowes, and all Iſrael ſhall know, that our City generally (excepting only ſome malignants, and members of ſeperated Congregations) doth honour, love, and reverence them for their works ſake; As ap<g ref="char:EOLhyphen"/>peares by the Act of common Councell, and this Treatiſe follow<g ref="char:EOLhyphen"/>ing.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113843:3"/>
+            <head>VOX NORWICI. A true Coppy of the Act of Common-Councell.</head>
+            <p>
+               <note place="margin">Civitas Norwici.</note> 
+               <hi>Congregatio tent' die Mercurij, ſcilicet ſecundo die Septembris, Anno Regni Domini Caroli, Dei gra<g ref="char:EOLhyphen"/>tia Angliae, Scot' Eranc' &amp; Hybern' Rex, fidei defenſo<g ref="char:EOLhyphen"/>ris, &amp;c. viceſimo ſecundo tempore Henrici Watts Maior Civit' praed' Iohan' Cory, &amp; Williel' Rye vicecom' ejuſ<g ref="char:EOLhyphen"/>dem Civitat'</hi>
+            </p>
+            <p>We the Major, Sheriffes, Aldermen, and Common-Councel of the City of Norwich, having ſeen a ſcandalous pamphlet, lately ſet forth, ſtiled, <hi>Vox Populi,</hi> or the peoples cry againſt the Clergy, doe hereby declare, that we, nor any of us have any hand, or did give any counſell or conſent to the compiling thereof, untill it came to publique view, and we are ſo farre from countenancing of it, as that we utterly diſclaime it: And we doe further declare, that there are ſeverall particulars in the ſaid Booke, which doe very falſly and ſcandalouſly impeach and aſperſe the Miniſters of this City, named in that pamphlet; And we doe hear<g ref="char:EOLhyphen"/>tily wiſh that the Author thereof may be found out and puniſhed according to the Law of the Land.</p>
+            <closer>
+               <signed>Baleſton.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:113843:3"/>
+            <head>The Cry of NORVVICH, Vindicating their <hi>Miniſters.</hi>
+            </head>
+            <p>IN that libellous Packet, called <hi>Vox populi,</hi> are contained many blaſphemies, hereſies, errors, and malignant expreſſions.</p>
+            <p>To point at a few of them:</p>
+            <p>
+               <note place="margin">In the preface.</note>Firſt, <hi>That difference in judgement in the myſteries of Di<g ref="char:EOLhyphen"/>vinity, is more our ſorrow then our ſin; and the reaſon they give for this, is, becauſe it is the irreſiſtable product of our depraved nature, &amp;c. whence it followes they hold.</hi>
+            </p>
+            <p n="2">2. <hi>That the depravedneſſe of our nature by</hi> Adams <hi>fall is no ſin to be ſorrowed for, or Originall ſin is no ſinne: and in that they doe ſorrow for it, they ſorrow for that which is no ſinne.</hi>
+            </p>
+            <p>
+               <hi>They ſay difference in affection, anger, and choller, &amp;c. is more our ſin then our ſorrow, whence it followes.</hi>
+            </p>
+            <p n="3">3. <hi>That difference in affection, and injuries to others, are ſins of the greateſt magnitude, or ſinnes againſt our neigh<g ref="char:EOLhyphen"/>bour, are greater then any ſinnes againſt God.</hi>
+            </p>
+            <p>
+               <hi>Their deſires are meerely to be let alone, whence it followeth.</hi>
+               <note place="margin">In the booke, pag. 3. lin. 28.</note>
+            </p>
+            <p n="4">4. <hi>They hold that every man muſt be left to the liberty of his conſcience.</hi>
+            </p>
+            <p n="5">5. <hi>That it is a ſtate-troubling principle to compell men againſt their conſciences,</hi>
+               <note place="margin">Pag. 12. lin. 7.</note> 
+               <hi>to <g ref="char:V">Ʋ</g>niformity in Church-Govern<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p n="6">6. <hi>That our ſolemne League and Covenant is the ſame to the Presbyter, that the Maſſe-booke is to the Papiſt,</hi>
+               <note place="margin">Pag. 25. lin. 28</note> 
+               <hi>and the Service-booke to the Prelate.</hi>
+            </p>
+            <pb n="6" facs="tcp:113843:4"/>
+            <p>Theſe things we will not meddle withall, but leave them to be cenſured by Authority, and confuted by the pens and tongues of the learned.</p>
+            <p>Neither liſt we to render evill for evill, or rebuke for rebuke, to revile them that have reviled the ſervants of Je<g ref="char:EOLhyphen"/>ſus Chriſt, we dare not bring againſt them any railing ac<g ref="char:EOLhyphen"/>cuſation, but only ſay to them, as the Archangell ſaid to the Divell, when he diſputed about the body of Moſes, <hi>The Lord rebuke thee.</hi>
+            </p>
+            <p>We will meddle only with matters of fact, and be faith<g ref="char:EOLhyphen"/>full witneſſes in behalfe of our faithfull Miniſters, as we are bound by the ninth Commandement, to cleere them from thoſe foule aſperſions, and falſe accuſations which are caſt upon them, that their innocencie and integritie may appeare to all the world, we ſhall hold forth a Cata<g ref="char:EOLhyphen"/>logue to publique view, not a compleate enumeration of all the lies in the Libell, for that were an endleſſe taske (every Page manifeſting ſo many) but of ſome of them of the greateſt magnitude, lies with a witnes, ſuch as almoſt every childe in Norwich of any diſcretion, is able to teſtifie the untruth of them; as,</p>
+            <p>
+               <hi>Firſt, they charge</hi> Maſter <hi>Thornebacke, that in his Sermon upon the</hi> 16h <hi>of</hi> June <hi>at the Greeneyard,</hi>
+               <note place="margin">Pag 1. lin. laſt.</note> 
+               <hi>he exhorted the peo<g ref="char:EOLhyphen"/>ple to ſtrike in with ſome Petition,</hi>
+               <note place="margin">Pag. 5. lin. 20.</note> &amp;c. <hi>and that this was ſe<g ref="char:EOLhyphen"/>conded in the afternoon by</hi> Maſter <hi>Bond,</hi>
+               <note n="*" place="margin">He uttered not a word to that effect.</note> 
+               <hi>who violently preſ<g ref="char:EOLhyphen"/>ſed the people according to the patterne delivered him in the Mount</hi> (<hi>meaning</hi> Maſter <hi>Thornebacke his Morning Ser<g ref="char:EOLhyphen"/>mon.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Where by the way, Reader thou maiſt perceive that this Libeller doth not ſpare to abuſe the divine Ora<g ref="char:EOLhyphen"/>cles of God, when he is in this jeering ſtraine; but con<g ref="char:EOLhyphen"/>cerning this we teſtifie,</p>
+            <p>That Maſter <hi>Thornebacke,</hi> and Maſter <hi>Bond,</hi> did both of them in their Sermons exhort the New Magiſtrate, and the whole City there preſent in generall, to doe ſomething to the utmoſt of their power, which might conduce to
+<pb n="7" facs="tcp:113843:4"/>the publike good and ſettlement of truth and peace, but we do not remember any ſuch word uſed in either of their Sermons, as Petition or Remonſtrance; But we be<g ref="char:EOLhyphen"/>leeve it was the deſire of them, and the reſt of the Mini<g ref="char:EOLhyphen"/>ſters, not violently to preſſe the people to ſubſcribe any Petition of theirs, but only to ſtirre them up to be active, in doing ſomething by mature advice<g ref="char:punc">▪</g> which might tend to the peace and benefit of Church and Common-wealth.</p>
+            <p n="2">2. <hi>They charge our Miniſters thus; Drunkards, Swea<g ref="char:EOLhyphen"/>rers, Gameſters, Lyars, Whoremongers, Adulterers, &amp;c. are not petitioned againſt.</hi>
+            </p>
+            <p>We anſwer, ſome of us have ſeene the Petition framed by the Miniſters of <hi>Norwich,</hi> and we teſtifie, that in a ſpe<g ref="char:EOLhyphen"/>ciall manner, it ſtrikes expreſly at Blaſphemy againſt God, Sabbath-breaking, Tipling, Gaming, Ale-houſes-haunt<g ref="char:EOLhyphen"/>ing, &amp;c. and the maine ſcope of it was to ſuppreſſe ſin, diſorder, and prophaneſſe, to procure peace, and to ad<g ref="char:EOLhyphen"/>vance the power of godlineſſe.</p>
+            <p n="3">
+               <note place="margin">Obſerve Rea<g ref="char:EOLhyphen"/>der the ſecret conveiance of theſe juglers the emphaſis lies in theſe words, we hear nothing al<g ref="char:EOLhyphen"/>moſt, &amp;c. and whats the rea<g ref="char:EOLhyphen"/>ſon our Mini<g ref="char:EOLhyphen"/>ſters reprove theſe ſins daily in the Pulpit, but they are abſent; <hi>viz.</hi> in Mrs <hi>Aſhwells</hi> chamber.</note> 3. <hi>They charge our Miniſters thus: We heare nothing almoſt in every Pulpit, but Church Diſcipline, Uniformity, nothing againſt the known God, provoking ſins of the times, ſwearing lying, defrauding, coſening and over-reaching one another, little or nothing of the Doctrine of Faith towards God, repentance from dead workes, love amongſt Brethren, Communion with God, Union with Chriſt, fellowſhip with the Spirit, &amp;c. Theſe things are almoſt baniſhed the Pulpits, and we have nothing but the very formes and ſhell of Re<g ref="char:EOLhyphen"/>ligion.</hi>
+            </p>
+            <p>To this we anſwer, with amazement, and wonder at the impudency of theſe men in putting forth ſuch groſſe lies, the falſeneſſe whereof, are knowne to our whole City, except only Recuſants and Separatiſts that never frequent our congregations, we do teſtifie all of us, as eare-witneſſes, that thoſe very ſins they mention, were never more conſtantly and ſeverely reproved, Faith and Repen<g ref="char:EOLhyphen"/>tance, &amp;c. never more faithfully and powerfully preached
+<pb n="8" facs="tcp:113843:5"/>by any, then by theſe our Miniſters whom they nominate; and as for Diſcipline, and Uniformity, we never heard any of them make it their worke in any Sermon to preach of them, if they meddle at any time with theſe, it is but a touch and away, as they meet with occaſion in their Text, their maine worke is to lay a good foundation, and to teach the ſubſtantiall grounds of Chriſtian Religion.</p>
+            <p n="4">4. <hi>They ſay our Miniſters were unwilling to let their Remonſtrance be read in the Court of Maioraltie, that they refuſed to let the Towne Clarke read it, but would read it themſelves, and would not require the advice, Counſell, and helpe of the Court.</hi>
+            </p>
+            <p>We anſwer, the Remonſtrance was read at leaſt thrice, publikely in the Court, the reaſon why it was read by one of themſelves, was becauſe there was but one Coppy, and that imperfect, interlined, blotted out in many places, and none elſe could well read it, but one of themſelves; yet to ſatisfie them, the Coppy of it was left in the Court, <hi>June</hi> 17<g ref="char:punc">▪</g> from morning till night, alſo upon the 19, of <hi>June</hi> the Common-Councell had it in their hands a competent time. The Miniſters were ſo far from refuſing the advice of the Magiſtrates and Court, that they did offer divers times, that a Committee of three of foure of them might be appointed to joyne with ſo many of the Miniſters, to adviſe about it, alter it, and prepare it for another meeting; This being denied, the Miniſters thought it was to no end to part with their Coppy; and having but one in all, they tooke it away with them; by which it appeares to all men, that our Miniſters did goe to adviſe with the Court, and not having their approbation, left off the proſecution of their Remonſtrance, though they were encouraged by many to goe one with it, by getting hands among the people.</p>
+            <p n="5">5. <hi>They taxe our Miniſters of Jeſuiticall practiſes and undermining principles.</hi>
+               <note place="margin">Pag 7. line 7.</note>
+            </p>
+            <p>But they confute themſelves, for page 5. line the 9.
+<pb n="9" facs="tcp:113843:5"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd 10. they confeſſe the Miniſters appeare publike in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir deſignes, we are ſure that is not the Jeſuiticall way, for their principles are undermining and ſecret, here they give themſelves the lie.</p>
+            <p n="6">6. <hi>They charge M.</hi> Thorneback, <hi>M.</hi> Carter, <hi>M.</hi> Stinnet, <hi>and the reſt,</hi>
+               <note place="margin">pag. 8. lin. 1.</note> 
+               <hi>that they take upon them to exerciſe authoritie over the Court, that they proceed by way of command, expecting their obedience, that they ſhould goe when the Miniſters bid them goe, &amp;c. though it be to licke the duſt at their feet.</hi>
+            </p>
+            <p>We anſwer: here's a deale of malice, but not a word of truth, Maſter <hi>Thornebacke</hi> and the reſt, went all in a humble way to the Court, as Petitioners, <note place="margin">They did not threaten our chiefe Magi<g ref="char:EOLhyphen"/>ſtrate that they would ſet up a Lecture and maintaine it in deſpite of him, as ſome of you haue done.</note> with their hats in their hands, they only contributed their advice, pro<g ref="char:EOLhyphen"/>pounded their feares, propoſed a remedy, gave their rea<g ref="char:EOLhyphen"/>ſons, and ſubmitted all to the wiſdome of the Court: This is true, and if this be to exerciſe authority, let the world judge.</p>
+            <p n="7">7. <hi>Maſter</hi> Thornebacke, <hi>Maſter</hi> Carter, <hi>and the reſt, are accuſed to be ſteered by the deceitfull campaſſe of car<g ref="char:EOLhyphen"/>nall intereſts, and are moved and acted up and downe ac<g ref="char:EOLhyphen"/>cording to the motion of their</hi> primum mobile, <hi>worldly preferments, and popular concurrencies, ſubmitting them<g ref="char:EOLhyphen"/>ſelves to the preceps of men, to Surplice, Tippet, High-Altar, Liturgies, Homilies, Cannons, Injunctions of the Biſhop, Write, Preach for them, and glory in them; and as the times wheele about, they can throw them all by, and be as zealous againſt them, as ever they were for them, &amp;c.</hi>
+            </p>
+            <p>We anſwer, and teſtifie before the Lord, that all this is ſo notoriouſly falſe and ſcandalous that we even bluſh to read it, here we cannot ſatisfie in a generall way, we will therefore give ſome ſhort account of our Mini<g ref="char:EOLhyphen"/>ſters ſeverally.</p>
+            <p>Maſter <hi>Thornebacke</hi> ſince he came to <hi>Norwich,</hi> did never appeare to us as a man that had any eye or
+<pb n="10" facs="tcp:113843:6"/>aime at worldly preferments, his preaching is againſt pre<g ref="char:EOLhyphen"/>laticall tyranny and ceremonies, but not for them, and though we can ſpeake poſitively only, for ſo long as he hath lived with us; yet we conceive he was ever the ſame that he appeares now to be, and therefore we will give a hint of what we have heard from good hands <hi>viz.</hi> That Maſter <hi>Thornebacke</hi> living in <hi>Eſſex</hi> at <hi>Steeple-Bum<g ref="char:EOLhyphen"/>ſted</hi> in the heate and height of the Prelaticall perſecu<g ref="char:EOLhyphen"/>tion, had an excommunication ſent out againſt him which was never revoked to this day, becauſe he refuſed and oppoſed the conſtant wearing of the Surplice, and reading of the Service-Booke Wedneſdaies and Fridaies, and for perſiſting in his inconformity after his citation to the Court, publikely and privately in thoſe times he proclaimed the fall of the Biſhops for their Pride and In<g ref="char:EOLhyphen"/>ſolency; he was offered a very little Pariſh, but a great living, ſome two hundred pound <hi>perannum</hi> and he refuſed it becauſe the worke was little, and did rather chuſe to take a place of far leſſer meanes, where there was more of Chriſts worke to doe, this is his ambition of worldly preferment, all this we have heard, and let Mr <hi>Thorne<g ref="char:EOLhyphen"/>backes</hi> greateſt enemies inquire, and they ſhall find the truth of theſe things.</p>
+            <p>Maſter <hi>Carter</hi> hath lived Miniſter of St. <hi>Peters</hi> Pariſh now theſe Seventeen yeares, except only that time in which he was baniſhed by Biſhop <hi>Wrenn,</hi> and his Chan<g ref="char:EOLhyphen"/>cellour, we never could diſcerne that ever he did ſeeke after, or affect any worldly preferment; he hath had ad<g ref="char:EOLhyphen"/>vantages of raiſing himſelfe, but never improved them ſo farre, as ever we could ſee or heare, this we know he hath often been about to leave St <hi>Peters</hi> Pariſh for a leſſe peo<g ref="char:EOLhyphen"/>ple, and leſſe meanes, only as he profeſſed out of the ſenſe of his owne weakeneſſe, being not able to beare ſo great a burthen as lyeth upon him: and as for the Prelaticall ceremonies, he hath ever groned under them, declaimed againſt them bitterly, both publikely and privately, and
+<pb n="11" facs="tcp:113843:6"/>becauſe his conſcience would not ſuffer him to yeeld to their traſh, he was unmercifully perſecuted by Biſhop <hi>Wrenn,</hi> and his Chancellour ſuſpended, deprived and mo<g ref="char:EOLhyphen"/>leſted: So he was forced to leave <hi>Norfolke,</hi> and ſeeke hiding places, he ſuffered with joy the ſpoyling of his goods, and counted exile a Paradice, only to be free from the baſe traſh of the Prelates: He hath ever been the ſame, keeping cloſe to his principles; and if he have varied in any thing, it hath been in the increaſe of his deteſtation of ſuperſtition and Prelacy: We all teſtifie of ſeventeene yeares experience of him, that theſe aſperſions of him are foule, and the accuſations moſt falſe and groſſe.</p>
+            <p>Maſter <hi>Stinnett</hi> hath lived Miniſter of Saint Johns of Maddermarket Pariſh thirty yeares, and upwards: His ſpirituall living is about twenty foure pounds <hi>ter<g ref="char:cmbAbbrStroke">̄</g> annum;</hi> and although it be no more, we never heard that ever he ſought any other place for his preferment. If in ſome things he hath conformed, it is no more then ſome of the five Apologiſts have done: who have been ſeen in Nor<g ref="char:EOLhyphen"/>wich to reade the Let any in the Surplice, and uſe the Croſſe in Baptiſme; but that it may appeare he hath ever ſhewed a diſlike of them, it is upon record, that long agoe he hath been troubled and ſuſpended, more then once, and another put in his place, for neglecting the Booke of Common Prayer, and other Ceremonies.</p>
+            <p>Maſter <hi>Fletcher,</hi> a learned, pious, and grave Divine, whoſe living hath been meane in the Countrey where he hath ſhined as a light for many yeares: ſure if he had bin ambitious, he might have raiſed himſelfe much higher, by his noble friends, being a man of great relations. Since he came to Norwich, he hath carried himſelfe like a grave and ſound Miniſter of the Goſpell, a workeman that needeth not to be aſhamed, and an enemy to Cere<g ref="char:EOLhyphen"/>monies, &amp;c. as appeares by his being ſuſpended in Bi<g ref="char:EOLhyphen"/>ſhop <hi>Wrens</hi> time for the omiſſion of ſome Ceremonies</p>
+            <pb n="12" facs="tcp:113843:7"/>
+            <p>Maſter <hi>Bond,</hi> a hopefull and learned young man, he hath for two yeares together been coadjutor to Maſter <hi>Carter,</hi> that is his higheſt hitherto; yet we never percei<g ref="char:EOLhyphen"/>ved, that ever he made after any worldly preferment, he never wore Surplice ſince he was Miniſter, nor baptized with the Croſſe, nor obſerved any Prelaticall Ceremony, but hath preached and appeared againſt thoſe waies often zealouſly.</p>
+            <p>Maſter <hi>Stukeley</hi> is but a ſtranger in our City, of no long ſtanding; but for the time he hath been amongſt us, he ne<g ref="char:EOLhyphen"/>ver ſought worldly preferments that we know of, he hath declared himſelfe againſt Prelaticall Ceremonies, and joynes the right hand of fellowſhip, with the moſt godly party.</p>
+            <p>Maſter <hi>Toſt</hi> was bred, borne, and brought up amongſt us, deſcended of a religious Family, hath been ſettled in a Pa<g ref="char:EOLhyphen"/>ſtorall charge ſome five yeares, his Living not worth much above twenty two pounds <hi>per annum;</hi> yet we never heard he ſought for any worldly preferment; he never wore the Surplice ſince he was a Miniſter in Norwich, nor obſerved other Ceremonies, but hath often preached and appeared againſt them.</p>
+            <p>Maſter <hi>Mitchell,</hi> a Citizen of Norwich borne, an able godly and precious young man, he hath ſome imploiment, but no ſettled ſtation; he hath refuſed places, affording good meanes, but never that we know did ſeeke for any worldly preferment; he left off the wearing the Sur<g ref="char:EOLhyphen"/>plice (as can be proved) before he left the colledge in Cambridge; he is cleare of all the old taint that cleaveth to our Church.</p>
+            <p>And now let all the world judge the falſeneſſe of theſe accuſations of our faithfull Miniſters.</p>
+            <p n="8">8. <hi>They accuſe our Miniſters, that they oppoſe, preach againſt,</hi>
+               <note place="margin">Pag. 12, 13.</note> 
+               <hi>and trouble thoſe that doe ſettle Church-Govern<g ref="char:EOLhyphen"/>ment according to their Covenant.</hi>
+            </p>
+            <p>Obſerve Reader the ſecret craft and ſubtiltie of theſe
+<pb n="13" facs="tcp:113843:7"/>men; they would beare the world in hand, that they deſire peace and union with us, as they ſpeake in their Epiſtle, and yet they profeſſe to have a way differing from us, and a Covenant differing from the Nationall Covenant: And they blame our Miniſters, becauſe they preach againſt, and trouble them in ſettling Church-government accord<g ref="char:EOLhyphen"/>ing to their covenant; which that ye may know what it is, we will give you a touch of the particulars thereof: Firſt, they will avouch the Lord to be their God: Secondly, that they will endeavour to walke in all his wayes: Thirdly, that they willingly and humbly ſubmit themſelves to the government of Chriſt: Fourthly, that they will labour to improve their communion; and fifthly and laſtly, they covenant that they will not confine themſelves to the words of this covenant. Now I would faine know of any ☞ rationall man what theſe men are tyed unto by their cove<g ref="char:EOLhyphen"/>nant; yet how arrogantly doe they beare themſelves upon their church, and priviledges, and covenant, and we know not what, even till they draw their necks out of the yoke of Chriſt; and under the name of the church, they goe about to kicke out Gods Miniſters and Ordinances, hating our Miniſters becauſe they preach for, and endeavour to ſettle Church-government according to our Nationall Covenants. But O my ſoule, come not thou into their Aſſemblies.</p>
+            <p n="9">9. <hi>They ſpeake as if our Miniſters in their Remon<g ref="char:EOLhyphen"/>ſtrance did deſire the Parliament-men to baptize their children.</hi>
+               <note place="margin">Pag. 13.</note>
+            </p>
+            <p>For anſwer to this, we who have ſeen the Remon<g ref="char:EOLhyphen"/>ſtrance, do teſtifie it is falſe; For they petitioned for ſome order for Ordination of Miniſters, who might baptize and that none might be ſuffered to preach that will not bap<g ref="char:EOLhyphen"/>tize, and not otherwiſe.</p>
+            <p n="10">10. <hi>They taxe our Miniſters, that they have not taught our people to relieve the poore, and thats the reaſon they are not provided for.</hi>
+            </p>
+            <pb n="14" facs="tcp:113843:8"/>
+            <p>But our whole City knowes that our Miniſters have ever, but eſpecially of late laid downe the Doctrine of Charity, and Almes, almoſt in all their Sermons, and zea<g ref="char:EOLhyphen"/>louſly preſſed the care of the poore, even till they have reaped much ill will of divers; And God hath made their Miniſtry ſo ſucceſſefull, as that the Magiſtrates have dou<g ref="char:EOLhyphen"/>bled their reliefe by rates; ſo as the poore have hardly been ever ſo well provided for as now they be. It is true, we cannot ſo well acquit our ſelves of the poore, as your party can doe; for you will not ſo eaſily admit them, as you will doe ſilke-gowns, for they ſhall be offered to have their confeſſions to be made out for them: beſides, you can get ſo many good women to you, that their husbands cannot beare the charge of our poore, becauſe their wives prove ſo chargable to them.</p>
+            <p n="11">11. <hi>They endeavour to aſperſe our Miniſters with the guilt,</hi>
+               <note place="margin">Pag. 14. lin. 4. Pag. 9. middle</note> 
+               <hi>and bring them under the ſuſpition of Malignancy.</hi>
+            </p>
+            <p>But let the world inquire what Miniſters in the King<g ref="char:EOLhyphen"/>dome have preached more againſt Malignants then they, who more for the Parliament, for the Nationall Cove<g ref="char:EOLhyphen"/>nant, <note n="*" place="margin">Though not for your Co<g ref="char:EOLhyphen"/>venant.</note> for Reformation, who baulkes the ſecrecie of Ma<g ref="char:EOLhyphen"/>lignants more then they, who have ſpent their eſtates in the Parliaments ſervice more freely then they; you muſt recant this as a moſt malitious and falſe accuſation.</p>
+            <p n="12">12. <hi>They charge our Miniſters Remonſtrance with this paſſage,</hi>
+               <note place="margin">Pag. 15.</note> 
+               <hi>that Traitors to the King were not executed.</hi>
+            </p>
+            <p>The anſwer is ready; In all the Remonſtrance which was preſented to the Common-Councell, <hi>June</hi> the 10<hi rend="sup">th</hi>. there was not ſo much as the word Treaſon, or Traitor named.</p>
+            <p>Reader, we will not tire thy patience any further, thou maiſt by this time judge of the Beaſt by the foote: This ſhort collection of theſe few notorious falſehoods, may teach thee what to thinke of the whole: And truly we muſt from henceforth, call into queſtion the truth and in<g ref="char:EOLhyphen"/>tegritie of all thoſe that goe this way, though never ſo glorious in profeſſion.</p>
+            <pb n="15" facs="tcp:113843:8"/>
+            <p>One word only to the Authors and Abettors of this unchriſtian Libell, we ſpeake to you as <hi>Joſhuah</hi> to <hi>Achan,</hi> you have troubled our <hi>Iſrael</hi> this day, now therefore we pray you give glory to the Lord God of <hi>Iſrael,</hi> and make confeſſion unto him, repent of your Injuſtice, aske God and the Miniſters of the City of <hi>Norwich</hi> (whom you have abuſed) forgiveneſſe, leaſt the Lord trouble you, and all <hi>Iſrael</hi> periſh for your wickedneſſe.</p>
+            <p>The truth and ſubſtance of what is contained in this Booke, for the cleering and vindicating of our Miniſters herein mentioned, Is avouched by us whoſe names are hereunto ſubſcribed, to be the generall Vote of the whole City: And if any man deſire to be ſatisfied herein, they may repair to the houſe of <hi>Hamond Craske,</hi> in the ſaid Ci<g ref="char:EOLhyphen"/>ty of <hi>Norwich,</hi> where they may ſee, the Inhabitants of the ſaid City, with one conſent have ſubſcribed their hands to ſeverall Papers that teſtifie the ſame.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Peter Thacker.</hi>
+                     </item>
+                     <item>
+                        <hi>Hamond Craske.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Browne.</hi>
+                     </item>
+                     <item>
+                        <hi>Samp. Townſend.</hi>
+                     </item>
+                     <item>
+                        <hi>John Billingſley.</hi>
+                     </item>
+                     <item>
+                        <hi>Nehemiah Bond.</hi>
+                     </item>
+                     <item>
+                        <hi>William Browne,</hi>
+                     </item>
+                     <item>
+                        <hi>Violes Benion.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Woodyard.</hi>
+                     </item>
+                     <item>
+                        <hi>John Ploaſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ts.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hoth.</hi>
+                     </item>
+                     <item>
+                        <hi>Samp. Saberton.</hi>
+                     </item>
+                     <item>
+                        <hi>B<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aker.</hi>
+                     </item>
+                     <item>
+                        <hi>William Tooke.</hi>
+                     </item>
+                     <item>
+                        <hi>R<gap reason="illegible" resp="#UOM" extent="5 letters">
+                              <desc>•••••</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aſants.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
